@@ -12,4 +12,3 @@ Una vez que haya entrenado el modelo, pasará a la tercera parte para evaluar su
 
 Por último, en la cuarta parte, persistirá el modelo, lo que le permitirá cargarlo y utilizarlo en aplicaciones del mundo real al predecir nuevos datos. Como paso final, cargará y verificará el modelo almacenado para garantizar su integridad y utilidad en futuras tareas o implantaciones.
 
-A lo largo de este proyecto, adquirirá experiencia práctica en la limpieza de datos, la creación de canalizaciones de aprendizaje automático, la evaluación del rendimiento del modelo y la persistencia del modelo. Es una excelente oportunidad para mostrar sus habilidades en la construcción de una solución completa de principio a fin.
